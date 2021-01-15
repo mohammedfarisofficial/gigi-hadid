@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gigi-hadid/static/css/main.30a1d718.chunk.css",
-    "main.js": "/gigi-hadid/static/js/main.6fd6d557.chunk.js",
-    "main.js.map": "/gigi-hadid/static/js/main.6fd6d557.chunk.js.map",
+    "main.js": "/gigi-hadid/static/js/main.85192999.chunk.js",
+    "main.js.map": "/gigi-hadid/static/js/main.85192999.chunk.js.map",
     "runtime-main.js": "/gigi-hadid/static/js/runtime-main.6ff2c3c3.js",
     "runtime-main.js.map": "/gigi-hadid/static/js/runtime-main.6ff2c3c3.js.map",
-    "static/js/2.fdd2b639.chunk.js": "/gigi-hadid/static/js/2.fdd2b639.chunk.js",
-    "static/js/2.fdd2b639.chunk.js.map": "/gigi-hadid/static/js/2.fdd2b639.chunk.js.map",
+    "static/js/2.f1669494.chunk.js": "/gigi-hadid/static/js/2.f1669494.chunk.js",
+    "static/js/2.f1669494.chunk.js.map": "/gigi-hadid/static/js/2.f1669494.chunk.js.map",
     "index.html": "/gigi-hadid/index.html",
     "static/css/main.30a1d718.chunk.css.map": "/gigi-hadid/static/css/main.30a1d718.chunk.css.map",
-    "static/js/2.fdd2b639.chunk.js.LICENSE.txt": "/gigi-hadid/static/js/2.fdd2b639.chunk.js.LICENSE.txt",
+    "static/js/2.f1669494.chunk.js.LICENSE.txt": "/gigi-hadid/static/js/2.f1669494.chunk.js.LICENSE.txt",
     "static/media/image1.03abcd51.jpg": "/gigi-hadid/static/media/image1.03abcd51.jpg",
     "static/media/image1.130b6b23.jpg": "/gigi-hadid/static/media/image1.130b6b23.jpg",
     "static/media/image1.8a340b49.jpg": "/gigi-hadid/static/media/image1.8a340b49.jpg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6ff2c3c3.js",
-    "static/js/2.fdd2b639.chunk.js",
+    "static/js/2.f1669494.chunk.js",
     "static/css/main.30a1d718.chunk.css",
-    "static/js/main.6fd6d557.chunk.js"
+    "static/js/main.85192999.chunk.js"
   ]
 }
