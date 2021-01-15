@@ -1,0 +1,67 @@
+@import "./variables.scss";
+
+@mixin logo {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    @media (max-width: $phone) {
+        font-size: 15px;
+    }
+}
+@mixin navbarTitle {
+    font-size: 14px;
+    font-weight: 500;
+    color: $white;
+}
+@mixin navbarSubtitle {
+    font-size: 13px;
+    font-weight: 400;
+    color: $lightWhite;
+}
+@mixin paragraph($paraColor) {
+    font-size: 13px;
+    font-weight: 400;
+    color: $paraColor;
+    text-align: left;
+    @media (max-width: $tablet){
+        font-size:10px ;
+    }
+}
+@mixin personName {
+    font-weight: 600;
+    color: $black;
+    font-size: 36px;
+    @media (max-width: $tablet){
+        font-size: 25px;
+    }
+}
+@mixin navbarHeading {
+    font-weight: 500;
+    color: $white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    @media (max-width: $tablet){
+        font-size: 10px;
+    }
+}
+@mixin navbarLinks {
+    font-weight: 400;
+    color: $white;
+    font-size: 13px;
+    letter-spacing: 1px;
+    @media (max-width: $tablet){
+        font-size: 9px;
+    }
+}
+@mixin mainPaddingMedia {
+    padding: 0 $mainPadding;
+    @media ( max-width: $laptop){
+        padding: 0 $mainPaddinglaptop;
+    }
+    @media ( max-width: $tablet){
+        padding: 0 $mainPaddingtablet;
+    }
+    @media ( max-width: $phone){
+        padding: 0 $mainPaddingPhone;
+    }
+}

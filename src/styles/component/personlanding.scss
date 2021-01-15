@@ -1,0 +1,52 @@
+@import "../mixins.scss";
+@import "../variables.scss";
+
+.person-landing{
+    width: 100%;
+    min-height: 100vh;
+    .person-landing-title-section{
+        width: 100%;
+        height: 50vh;
+        @include mainPaddingMedia;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        h3{
+            @include personName;
+            margin-bottom: .5rem;
+        }
+        p{
+            @include paragraph($lightBlack);
+            width: 50%;
+        }
+    }
+    .person-landing-images-section{
+        width: 100%;
+        min-height: 50vh;
+        .person-landing-images{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items:center;
+            justify-content: space-around;
+            @media (max-width: $smallTablet){
+                flex-direction:column;
+
+            }
+            .image-container{
+                width: 33.333%;
+                height: 50vh;
+                overflow:hidden;
+                @media (max-width: $smallTablet){
+                    width: 100%;
+                }
+                img{
+                    object-fit: cover;
+                    object-position: top;
+                    height: 100%;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

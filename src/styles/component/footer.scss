@@ -1,0 +1,15 @@
+@import "../variables.scss";
+@import "../mixins.scss";
+
+.footer{
+    width: 100%;
+    height: 5rem;
+    background-color: $primary;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @include mainPaddingMedia;
+    h4{
+        @include paragraph($lightWhite)
+    }
+}
