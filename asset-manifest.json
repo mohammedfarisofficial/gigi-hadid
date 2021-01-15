@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/gigi-hadid/static/css/main.30a1d718.chunk.css",
+    "main.js": "/gigi-hadid/static/js/main.6fd6d557.chunk.js",
+    "main.js.map": "/gigi-hadid/static/js/main.6fd6d557.chunk.js.map",
+    "runtime-main.js": "/gigi-hadid/static/js/runtime-main.6ff2c3c3.js",
+    "runtime-main.js.map": "/gigi-hadid/static/js/runtime-main.6ff2c3c3.js.map",
+    "static/js/2.fdd2b639.chunk.js": "/gigi-hadid/static/js/2.fdd2b639.chunk.js",
+    "static/js/2.fdd2b639.chunk.js.map": "/gigi-hadid/static/js/2.fdd2b639.chunk.js.map",
+    "index.html": "/gigi-hadid/index.html",
+    "static/css/main.30a1d718.chunk.css.map": "/gigi-hadid/static/css/main.30a1d718.chunk.css.map",
+    "static/js/2.fdd2b639.chunk.js.LICENSE.txt": "/gigi-hadid/static/js/2.fdd2b639.chunk.js.LICENSE.txt",
+    "static/media/image1.03abcd51.jpg": "/gigi-hadid/static/media/image1.03abcd51.jpg",
+    "static/media/image1.130b6b23.jpg": "/gigi-hadid/static/media/image1.130b6b23.jpg",
+    "static/media/image1.8a340b49.jpg": "/gigi-hadid/static/media/image1.8a340b49.jpg",
+    "static/media/image1.96d46ce5.jpg": "/gigi-hadid/static/media/image1.96d46ce5.jpg",
+    "static/media/image1.9e45fe55.jpg": "/gigi-hadid/static/media/image1.9e45fe55.jpg",
+    "static/media/image1.a7ecc1e0.jpg": "/gigi-hadid/static/media/image1.a7ecc1e0.jpg",
+    "static/media/image1.b55533cb.jpg": "/gigi-hadid/static/media/image1.b55533cb.jpg",
+    "static/media/image1.f303ea16.jpg": "/gigi-hadid/static/media/image1.f303ea16.jpg",
+    "static/media/image2.0b738efa.jpg": "/gigi-hadid/static/media/image2.0b738efa.jpg",
+    "static/media/image2.81d49251.jpg": "/gigi-hadid/static/media/image2.81d49251.jpg",
+    "static/media/image2.843a7eb4.jpg": "/gigi-hadid/static/media/image2.843a7eb4.jpg",
+    "static/media/image2.8b6b547f.jpg": "/gigi-hadid/static/media/image2.8b6b547f.jpg",
+    "static/media/image2.ab8e08e8.jpg": "/gigi-hadid/static/media/image2.ab8e08e8.jpg",
+    "static/media/image2.c7383dea.jpeg": "/gigi-hadid/static/media/image2.c7383dea.jpeg",
+    "static/media/image2.cdcd68c8.png": "/gigi-hadid/static/media/image2.cdcd68c8.png",
+    "static/media/image3.06df85f1.jpg": "/gigi-hadid/static/media/image3.06df85f1.jpg",
+    "static/media/image3.2955049f.png": "/gigi-hadid/static/media/image3.2955049f.png",
+    "static/media/image3.9ccc38dc.jpg": "/gigi-hadid/static/media/image3.9ccc38dc.jpg",
+    "static/media/image3.b9fd3ea5.jpg": "/gigi-hadid/static/media/image3.b9fd3ea5.jpg",
+    "static/media/image3.e99260d2.jpg": "/gigi-hadid/static/media/image3.e99260d2.jpg",
+    "static/media/image3.eed24292.jpg": "/gigi-hadid/static/media/image3.eed24292.jpg",
+    "static/media/image4.608b32f2.jpg": "/gigi-hadid/static/media/image4.608b32f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ff2c3c3.js",
+    "static/js/2.fdd2b639.chunk.js",
+    "static/css/main.30a1d718.chunk.css",
+    "static/js/main.6fd6d557.chunk.js"
+  ]
+}
